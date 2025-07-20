@@ -6,7 +6,7 @@ An interactive Jupyter-based research prototype for spinal cord injury (SCI) neu
 
 🚀 Key Features
 Live Muse2 EEG Toggle “Use Muse2 EEG” to ingest α-band data from a Muse2 headset via Lab Streaming Layer (pylsl). Falls back to a 10 Hz synthetic waveform when no stream is detected.
-
+(your media files (image1.png, image2.png, relaxation.mp3) live in the repo—)
 Multimodal Physiological Simulation Models HRV-derived metabolic balance, vagal tone, stress index, blood glucose (80–100 mg/dL), brown adipose tissue (BAT) activation (~12% boost), TNF-α cytokines (< 15 AU), and energy expenditure. Optional circadian, fatigue, nutrition, and medication modulators introduce real-world variability.
 
 Interactive 4×2 Dashboard
